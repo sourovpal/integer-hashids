@@ -17,7 +17,7 @@ This package works like [Laravel Hashids][218ac709] but you can make integers ha
 
 ### Composer require
 ``` bash
-$ composer require amamarul/integer-hashids
+$ composer require amamarul/integer-hash-ids
 ```
 ### Add Provider into config/app.php
 ``` php
